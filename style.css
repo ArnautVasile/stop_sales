@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+
+.div1 {
+	display:inline;
+	float:left;
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+}
+.div2 {
+	display:inline;
+	width: 20px;
+	float: left;
+    height: 20px;
+    margin-left: -20px;
+    background-color: blue;
+}
+.div3 {
+	display:inline;
+	width: 20px;
+	float: left;
+    height: 20px;
+    background-color:  green;
+}
